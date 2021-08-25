@@ -1,5 +1,5 @@
 const browserConfig = {
-  headless: true,
+  headless: false,
 };
 
 export const browserSetup = async (
